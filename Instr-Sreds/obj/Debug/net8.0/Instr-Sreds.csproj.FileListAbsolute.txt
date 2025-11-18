@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Instr-Sreds\Instr-Sreds\bin\Debug\net8.0\Instr-Sreds.exe
+C:\Users\HP\source\repos\Instr-Sreds\Instr-Sreds\bin\Debug\net8.0\Instr-Sreds.deps.json
+C:\Users\HP\source\repos\Instr-Sreds\Instr-Sreds\bin\Debug\net8.0\Instr-Sreds.runtimeconfig.json
+C:\Users\HP\source\repos\Instr-Sreds\Instr-Sreds\bin\Debug\net8.0\Instr-Sreds.dll
+C:\Users\HP\source\repos\Instr-Sreds\Instr-Sreds\bin\Debug\net8.0\Instr-Sreds.pdb
+C:\Users\HP\source\repos\Instr-Sreds\Instr-Sreds\obj\Debug\net8.0\Instr-Sreds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Instr-Sreds\Instr-Sreds\obj\Debug\net8.0\Instr-Sreds.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Instr-Sreds\Instr-Sreds\obj\Debug\net8.0\Instr-Sreds.AssemblyInfo.cs
+C:\Users\HP\source\repos\Instr-Sreds\Instr-Sreds\obj\Debug\net8.0\Instr-Sreds.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Instr-Sreds\Instr-Sreds\obj\Debug\net8.0\Instr-Sreds.dll
+C:\Users\HP\source\repos\Instr-Sreds\Instr-Sreds\obj\Debug\net8.0\refint\Instr-Sreds.dll
+C:\Users\HP\source\repos\Instr-Sreds\Instr-Sreds\obj\Debug\net8.0\Instr-Sreds.pdb
+C:\Users\HP\source\repos\Instr-Sreds\Instr-Sreds\obj\Debug\net8.0\Instr-Sreds.genruntimeconfig.cache
+C:\Users\HP\source\repos\Instr-Sreds\Instr-Sreds\obj\Debug\net8.0\ref\Instr-Sreds.dll
